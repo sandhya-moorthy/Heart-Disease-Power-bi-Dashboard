@@ -33,7 +33,9 @@ This Power BI dashboard analyzes heart disease data and provides insights into p
 * Excel
 * DAX
 * Data Visualization
+## 📊 Dashboard Preview
 
+![Dashboard Preview](Screenshot%202026-06-05%20205039.png)
 ## 📁 Dataset
 
 Heart Disease Dataset
